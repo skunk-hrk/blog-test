@@ -1,4 +1,4 @@
 # blog-test
-すかんくのブログ
+スカンクのブログ
 
 Skunk All Right Reserved.
